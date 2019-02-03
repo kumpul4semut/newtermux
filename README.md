@@ -1,8 +1,10 @@
 # newtermux
 <br>
+ ![Version 1.0.0]
+<br>
 For open panah kanan kiri termux terbaru
 <br>
-#use 
+# use 
 <br>
 pkg install wget -y
 <br>
