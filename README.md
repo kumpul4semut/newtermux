@@ -1,12 +1,5 @@
 # newtermux
 <br>
- [![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-green.svg "Version 1.0.0")](#) (https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/)
-
-
-
-<br>
-For open panah kanan kiri termux terbaru
-<br>
 # Use On Termux Version New
 <br>
 pkg install wget -y
