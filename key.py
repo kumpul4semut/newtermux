@@ -44,7 +44,7 @@ semut=(gt+"""
 """)
 slowprints(semut)
 print(gt+"")
-input('\n   Press enter to continue...')
+input('\nPress enter to continue...')
 sleep(2)
 slowprints("   [!] Making Termux Properties directory...")
 sleep(4)
